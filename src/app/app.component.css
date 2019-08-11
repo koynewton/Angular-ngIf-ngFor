@@ -1,0 +1,19 @@
+li,h1
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1
+{
+    color: salmon;
+}
+
+.bg-dark
+{
+    background-color: rgb(175, 98, 89);
+}
+
+nav
+{
+    background-color: rgb(175, 98, 89);
+}
